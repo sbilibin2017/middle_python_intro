@@ -1,7 +1,7 @@
 '''Тесты.'''
 
 import pytest
-from main import greeting
+from app.main import greeting
 
 
 @pytest.mark.parametrize(
